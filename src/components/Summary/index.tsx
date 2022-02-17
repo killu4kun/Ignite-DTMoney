@@ -1,4 +1,3 @@
-import React from 'react';
 import { Container } from './styles';
 import incomeSVG from '../../assets/income.svg';
 import outcomeSVG from '../../assets/outcome.svg';
